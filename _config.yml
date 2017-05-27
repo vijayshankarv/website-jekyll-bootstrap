@@ -7,13 +7,13 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Vijay Shankar Venkataraman
+title : Vijay's blog
 tagline: Will come up with a tagline soon
 author :
-  name : Vijay Shankar Venkataraman
-  email : vijayshankarv@gmail.com
-  github : vijayshankar
+ # name :Vijay Shankar Venkataraman 
+  github : vijayshankarv
   twitter : vijayshankarv
+  linkedin : vijayshankarv0
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
